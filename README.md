@@ -2,11 +2,9 @@
 ## E-commerce Backend✨
 This project is a backend for an e-commerce website using the latest technologies, designed to help an internet retail company compete with other e-commerce companies.
 
-![demogif]()
-![screenshot]()
-![screenshot]()
-![screenshot]()
-![screenshot]()
+![screenshot](./Assets/13-orm-homework-demo-01.gif)
+![screenshot](./Assets/13-orm-homework-demo-02.gif)
+![screenshot](./Assets/13-orm-homework-demo-03.gif)
 ## Installation & Technologies✨
 Clone the repository to your local machine
 ```sh
